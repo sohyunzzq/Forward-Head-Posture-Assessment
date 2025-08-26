@@ -1,5 +1,5 @@
-# 💡 점자 번역 프린터  
-대표 사진
+# 💡 거북목 진단 시스템  
+<img width="655" height="388" alt="image" src="https://github.com/user-attachments/assets/9c0e8091-e4ed-495d-8810-9d7c925f7f32" />
 
 ---
 
